@@ -1,0 +1,52 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2022-07-29T19:36:44.505Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 60,
+      "createdAt": "2022-07-29T19:30:44.505Z"
+    },
+    {
+      "id": 3,
+      "description": "Ignite Rocketseat",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1980,
+      "createdAt": "2022-07-29T19:24:44.505Z"
+    },
+    {
+      "description": "Refrigerante",
+      "category": "Alimento",
+      "price": 10,
+      "type": "outcome",
+      "createdAt": "2023-06-07T17:31:40.427Z",
+      "id": 4
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "category": "Teste",
+      "price": 10,
+      "type": "income",
+      "createdAt": "2023-06-07T17:32:22.406Z",
+      "id": 5
+    },
+    {
+      "description": "Televisão",
+      "price": 800,
+      "category": "Compra",
+      "type": "outcome",
+      "createdAt": "2023-06-07T17:51:02.008Z",
+      "id": 6
+    }
+  ]
+}
